@@ -96,3 +96,9 @@ print '\n'
 print "CONGRATULATIONS YOU HAVE WON THE GAME "
 print '\n'
 input=raw_input()
+
+'''
+1. Mention when to turn right or down.
+2. Don't mention no of moves at beggining.
+3. The program should exit after game is lost.	
+'''
